@@ -1,8 +1,16 @@
 body{
-    background-color: rgb(237, 174, 14);
+    background-color: rgba(237, 174, 14, 0.838);
 }
 
 h3{
     background-color: rgba(200, 255, 0, 0.608);
     text-align: center;
+}
+
+h5{
+    color: rgb(139, 77, 61);
+}
+
+p{
+    color: rgb(135, 109, 37);
 }
